@@ -10,7 +10,7 @@ public class ConnectSUBD {
 
     public final static String DB_DRIVER = "com.mysql.jdbc.Driver";
     public final static String DB_CONNECTION = "jdbc:mysql://localhost:3306/Coffi";
-    public final static String DB_USER = "root";
+    public final static String DB_USER = "login";
     public final static String DB_PASSWORD = "password";
 
 
